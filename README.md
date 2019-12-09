@@ -1,18 +1,18 @@
-#CENG 319-OND
-#Homework 2 Assignment
-#David Asare
-#N01170368
-#Flip View
+CENG 319-OND
+Homework 2 Assignment
+David Asare
+N01170368
+Flip View
 
-##Introduction
+Introduction
 
 This blog will be a tutorial covering the purpose and the functions of a Flipping View. The View Flipper attribute can perform animations for the android phone when making apps. It is also an extension of the view animator class, which is responsible for animating two or more views that have been added.
 
- ##History
+History
  
 The View Flipper was introduced to the API level 1. API stands for Application Programming Interface used to set functions or procedures. It allows the creation of applications to access features or data of an operating system. The View Flipper is meant to tolerate API level 1 and higher. 
 
-##The Major Methods/Attributes
+The Major Methods/Attributes
 
 The major attributes that I used in the code are the Image Views and the Button. There are a lot of different attributes and ways you can use to make a flip view animation in android. The View Flipper can be setup to be performed in either xml or the Java code. I made the mechanism of the View Flipper using the Java code in the mainActivity.java file. 
 
@@ -26,11 +26,11 @@ The major attributes that I used in the code are the Image Views and the Button.
 
   Java  also has predefined public methods you can use to make a Flip View animation such as “getFlipInterval()” to get delay before flipping to next view, “setFlipInterval()” to see how long to wait before flipping to next view,“startFLipping() to cycle through child views”, “stopFlipping() “to terminate the flips and more.
 
-##The code
+The code
 
 	The code has comments that explain what each line of code does in both the mainActivity file and the XML. When you launch the app, you should be able to click the flip button a few times flipping the card back and forth during the animation.
   
-##The references
+The references
 
 https://developer.android.com/reference/android/widget/ViewFlipper#isAutoStart()
 https://tutorialwing.com/android-viewflipper-tutorial-with-example/
