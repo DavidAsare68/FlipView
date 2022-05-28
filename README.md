@@ -1,7 +1,7 @@
 CENG 319-OND
 Homework 2 Assignment
 David Asare
-N01170368
+
 Flip View
 
 Introduction
