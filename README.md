@@ -3,7 +3,13 @@ Homework 2 Assignment
 David Asare
 
 Flip View
+
+
 ![image](https://user-images.githubusercontent.com/55444089/170802510-a23416d3-a757-48fa-a6f7-b6a7de8cb3ab.png)
+
+
+![image](https://user-images.githubusercontent.com/55444089/170802545-c7f078a6-b316-46f2-be21-8d8536969552.png)
+
 
 Introduction
 
